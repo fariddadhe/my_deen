@@ -1,0 +1,19 @@
+import 'package:custom_navigation_bar/custom_navigation_bar.dart';
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+import 'package:get/get.dart';
+import 'package:intl/intl.dart';
+import 'package:my_deen/base/base.dart';
+import 'package:my_deen/controller/controllers.dart';
+import 'package:my_deen/model/models.dart';
+import 'package:my_deen/shared/shared.dart';
+import 'package:my_deen/ui/widgets/widget.dart';
+import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
+
+part 'page_main.dart';
+part 'page_ayat.dart';
+part 'page_quran.dart';
+part 'page_jadwal_shalat.dart';
+part 'page_qiblah.dart';
+part 'page_dzikir.dart';
+part 'page_list_dzikir.dart';
