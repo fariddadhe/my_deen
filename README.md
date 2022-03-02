@@ -1,6 +1,6 @@
 # my_deen
 
-A new Flutter project.
+Credit design https://dribbble.com/shots/13938825-myQuran-App
 
 ## Getting Started
 
