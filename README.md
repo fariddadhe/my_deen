@@ -1,6 +1,8 @@
 # my_deen
 
-Credit design https://dribbble.com/shots/13938825-myQuran-App
+Credit design 
+https://dribbble.com/shots/13938825-myQuran-App
+https://dribbble.com/shots/13268972-Quran-reading-app
 
 ## Getting Started
 
